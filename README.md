@@ -1,4 +1,4 @@
-# CSE210-05 Snake Cycle Game
+# Snake Cycle Game
 
 > The best rides are the ones where you
 > bite off much more than you can chew,
@@ -37,8 +37,7 @@ Players keep moving and turning but don't run into each other.
 Make sure you have Python 3.8.0 or newer and Raylib Python CFFI 3.7 installed and running on your machine. You can install Raylib Python CFFI by opening a terminal and running the following command.
 
 ```
-python3 -m pip install raylib
-pip install raylib for windows
+python3 -m pip install raylib, or pip install raylib for windows
 ```
 
 ## Project Structure
